@@ -8,4 +8,4 @@ We also need to remove the past conferences.
 
 This project is also open for the suggestions.
 
-To contribute fork this repo, add confernece link(following the format) in conferences.txt and create PR.
+To contribute fork this repo, add confernece link(following the format) in conferences.md and create PR.
