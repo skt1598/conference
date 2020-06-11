@@ -6,3 +6,5 @@ So I'm starting this project to help everyone by everyone in finding relevent co
 We also need to remove the past conferences.
 
 This project is also open for the suggestions.
+
+To contribute fork this repo and confernece link in conferences.txt and create PR.
